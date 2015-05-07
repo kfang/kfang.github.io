@@ -27,3 +27,9 @@ Just die... now, please! send SIGKILL, or specified signal
 
 Go away - forever! send SIGKILL and then remove the container
 > docker rm -f {container}
+
+## What's Running!?!?
+> docker ps
+
+## Lemme just step inside and take a look around...
+> docker exec -it {container} /bin/bash
