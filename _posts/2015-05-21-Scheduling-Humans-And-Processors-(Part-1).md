@@ -2,6 +2,7 @@
 published: false
 ---
 
+
 ## TL;DR
 You need to prioritize tasks, some have deadlines, some don't.  Some have priorities, some do not. Switching between tasks to get everything done sucks... now what...?  CPUs have solved this for us (sorta...)!
 
@@ -18,7 +19,8 @@ We're now at the point where short tasks will still finish quicker than the long
 
 Although its a good compromise, you'll be switching between tasks all the time. You're _human_ and you _can't multi-task_. Processors can multi-task but just like humans, there's a cost.  We've all heard about people having to get into the 'groove' and how it has a ramp up time.  Same with processors. When we switch between tasks, its called a ["Context Switch"](http://en.wikipedia.org/wiki/Context_switch) and there's almost always a cost, a loss of that 'groove'.  
 
-## Step 3, 
+
+### more to come....
 
 ## Resources
 [Wikipedia: Scheduling Algorithms](http://en.wikipedia.org/wiki/Category:Processor_scheduling_algorithms)
